@@ -22,3 +22,6 @@ torch_compile_debug/
 
 *.json
 *.txt
+*.gz
+*.sh
+*.onnx
